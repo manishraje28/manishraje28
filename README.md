@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Building AI-Powered Solutions
 --------------------------------------------------
 
-Hi, I'm Manish Raje, a Computer Engineering student passionate about Full Stack Development, Artificial Intelligence, and building impactful software solutions. I enjoy transforming ideas into real-world products through modern web technologies, AI, and automation. My interests include MERN Stack development, Generative AI, Agentic AI systems, cloud technologies, and solving real-world problems through software. I actively participate in hackathons, contribute to projects, and continuously explore emerging technologies while improving my technical and problem-solving skills.
+Hi, I'm Manish Raje, a Computer Engineering student passionate about Full Stack Development, AI, and building impactful software solutions. I enjoy turning ideas into real-world products through web technologies, automation, and innovative projects. I'm constantly learning, participating in hackathons, and exploring emerging technologies to solve real-world problems.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
 * 🖥️  See my portfolio at [Manish Portfolio](http://manishraje-portfolio.vercel.app/)
